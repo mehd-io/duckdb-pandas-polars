@@ -1,0 +1,6 @@
+*.ddb
+*.parquet
+*.wal
+*.env
+*.pytest
+*__pycache__
