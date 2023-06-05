@@ -1,5 +1,5 @@
 # Duckdb, Pandas & Polars
-Code used in the video tutorial here.
+Code used in the video tutorial [here](https://www.youtube.com/watch?v=4DIoACFItec).
 It aims to provides a quick overview of the main differences between the three frameworks through a simple data pipeline.
 
 The pipeline read data from local file, do some transformation and upload to an s3 bucket.
